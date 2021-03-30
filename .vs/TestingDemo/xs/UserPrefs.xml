@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{B81D1D58-B533-446A-B2F9-8EB69DB2C248}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DemoLibrary.Tests/ExamplesTests.cs">
+    <Files>
+      <File FileName="DemoLibrary/Calculator.cs" Line="1" Column="1" />
+      <File FileName="DemoLibrary.Tests/CalculatorTests.cs" Line="14" Column="22" />
+      <File FileName="DemoLibrary.Tests/ExamplesTests.cs" Line="22" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestingDemo" expanded="True">
+            <Node name="DemoLibrary" expanded="True" />
+            <Node name="DemoLibrary.Tests" expanded="True">
+              <Node name="Packages" expanded="True" />
+              <Node name="ExamplesTests.cs" selected="True" />
+            </Node>
+            <Node name="WinFormUI" expanded="True">
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="TestingDemo" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WinFormUI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
